@@ -1,0 +1,70 @@
+{
+    "login": {
+        "title": "Log in to your account",
+        "subtitle": "Enter your credentials to access the certificate dashboard.",
+        "ssoButton": "Sign in with SSO",
+        "divider": "Or continue with email",
+        "emailLabel": "Work Email",
+        "emailPlaceholder": "name@company.com",
+        "passwordLabel": "Password",
+        "passwordPlaceholder": "••••••••",
+        "forgotPassword": "Forgot password?",
+        "signInButton": "Sign in",
+        "loading": "Loading...",
+        "footerText": "New here?",
+        "footerLink": "Contact your admin"
+    },
+    "errors": {
+        "loginFailed": "Login failed. Please try again.",
+        "emailRequired": "Email is required",
+        "invalidEmail": "Invalid email address",
+        "passwordRequired": "Password is required",
+        "passwordMinLength": "Password must be at least 8 characters"
+    },
+    "loginPage": {
+        "quote": "Secure Certificate Management for the Modern Enterprise. Streamline your compliance tracking with end-to-end encryption and real-time advisory.",
+        "quoteAuthor": "— The Security Team"
+    },
+    "branding": {
+        "appName": "CertTrack",
+        "appSubtitle": "Enterprise Portal"
+    },
+    "sidebar": {
+        "dashboard": "Dashboard",
+        "myCertifications": "My Certifications",
+        "logout": "Logout"
+    },
+    "dashboardHeader": {
+        "searchPlaceholder": "Search certifications...",
+        "employeeButton": "Employee"
+    },
+    "statsGrid": {
+        "activeCertifications": "Active Certifications",
+        "expiringSoon": "Expiring Soon",
+        "complianceScore": "Compliance Score",
+        "new": "1 New",
+        "urgent": "Urgent (30 Days)"
+    },
+    "certificationsTable": {
+        "title": "My Certifications",
+        "viewAll": "View All",
+        "certificationName": "Certification Name",
+        "issuingOrg": "Issuing Org",
+        "expiryDate": "Expiry Date",
+        "status": "Status",
+        "loading": "Loading...",
+        "noCertsFound": "No certifications found.",
+        "pending": "Pending"
+    },
+    "employeeDashboard": {
+        "welcome": "Welcome back,",
+        "compliantMessage": "You are {complianceScore}% Compliant with your role requirements.",
+        "importHistory": "Import History",
+        "addNewCert": "Add New Certification",
+        "syncProfile": "Sync Your Profile",
+        "syncProfileSubtitle": "Drag and drop your latest resume to auto-update skills",
+        "aiCareerPath": "AI Career Path",
+        "aiCareerPathSubtitle": "Based on your recent activity, we recommend pursuing <strong>Kubernetes CKA</strong> to unlock <span class='text-white font-semibold underline decoration-primary decoration-2 underline-offset-2'>Senior DevOps</span> roles.",
+        "exploreRoadmap": "Explore Full Roadmap"
+    }
+}
